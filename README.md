@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [AutoPlus](https://reznovffs.github.io/Autoplus/)
 
-- 🌱 I’m currently learning **React , vue and django**
+- 🌱 I’m currently learning **Cybersecurity concepts**
 
 - 📫 How to reach me **chakib.zabit29@gmail.com**
 
