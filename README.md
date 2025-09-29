@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [AutoPlus](https://reznovffs.github.io/Autoplus/)
 
-- 🌱 I’m currently learning **Cybersecurity concepts**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **chakib.zabit29@gmail.com**
 
